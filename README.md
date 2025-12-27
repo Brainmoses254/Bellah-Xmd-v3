@@ -76,14 +76,3 @@ C.Panel deployment  [`Tutorial one`](https://youtu.be/ajaddRsPvsw?si=-UKgE092fNX
 
 
 [`Tutorial two`](https://youtu.be/bBOCsPcQ7vA?si=U4bQBAp7GUEWGuF2)
-
-
-
-
-# Regards 
-
-Thanks to...
-
-<div align="center">
-
-| [![GiddyTennor](https://github.com/Tennor-modz.png?lenght=50width=50)](https://github.com/Tenn
